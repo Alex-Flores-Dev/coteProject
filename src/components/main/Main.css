@@ -1,0 +1,11 @@
+.main-results{
+    display: flex;
+    flex-direction: row;
+}
+
+.options{
+    width: 20%;
+}
+.card-container{
+    width: 80%;
+}
