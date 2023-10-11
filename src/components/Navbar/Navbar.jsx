@@ -1,4 +1,5 @@
 import MenuButton from "./MenuButton";
+import './Navbar.css'
 
 
 function Navbar() {
